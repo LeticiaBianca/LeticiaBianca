@@ -21,7 +21,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiabianca&repo=sinteu&bg_color=000000)](https://github.com/leticiabianca/sinteu)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavodiasag&repo=LowCost&bg_color=000000)](https://github.com/gustavodiasag/LowCost)
-<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PHLeite&repo=Find-a-Book&bg_color=000000)](https://github.com/PHLeite/Find-a-Book)
 
