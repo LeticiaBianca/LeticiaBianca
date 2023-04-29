@@ -22,4 +22,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiabianca&repo=sinteu&bg_color=000000)](https://github.com/leticiabianca/sinteu)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PHLeite&repo=Find-a-Book&bg_color=000000)](https://github.com/PHLeite/Find-a-Book)
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiabianca&repo=Calculus&bg_color=000000)](https://github.com/LeticiaBianca/Calculus)
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiabianca&repo=AEDS-3&bg_color=000000)](https://github.com/LeticiaBianca/AEDS-3)
 
